@@ -1,0 +1,20 @@
+.website-head-title {
+    background-color: #d3d3d3;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px
+}
+
+#wrapperTable {
+    display: table;
+    width: 25%;
+}
+
+#wrapperTableCell {
+    display: table-cell;
+    width: 40%; /* adjust */
+}
+
+.name-text{
+    font-size:18px;
+}
